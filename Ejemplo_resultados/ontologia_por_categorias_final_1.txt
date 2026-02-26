@@ -1,0 +1,1186 @@
+=== actividad_economica (6) ===
+  - C432: agrano
+  - C679: trigo
+  - C700: cazas
+  - C909: pesca
+  - C996: Negocios
+  - C1088: actividad_economica
+
+=== animal (2) ===
+  - C808: pueco espin
+  - C809: armadillo
+
+=== autor (2) ===
+  - C629: Francisco Montero de Miranda
+  - C831: Plinio
+
+=== autoridad (23) ===
+  - C63: justicia
+  - C82: autoridad
+  - C154: Señor alcalde mayor
+  - C170: don Pedro de Alvarado
+  - C173: Fray Pedro de Arboleda
+  - C254: Concilio
+  - C363: su majestad
+  - C469: presidente y oidores
+  - C472: vuestra majestad
+  - C526: Bartolomé de Vilches
+  - C531: Padre fray Lucas de Ortega
+  - C533: Don Pedro Hernández
+  - C548: Padre Jorge González
+  - C549: Padre Andrés Peñuelas
+  - C550: Padre Martín de Montes de Oca
+  - C641: obispo de la Verapaz
+  - C652: Jesús María
+  - C772: Fray Francisco de Viana
+  - C773: Fray Lucas Gallego
+  - C774: Fray Guillén Cadena
+  - C848: Avicena
+  - C972: el papa
+  - C998: Católica Real Majestad
+
+=== cargo (9) ===
+  - C172: Alonso Páez Betancor
+  - C191: guardián
+  - C193: corregidor
+  - C195: gobernador
+  - C309: alcalde
+  - C310: regidor
+  - C311: fiscal
+  - C430: cargo
+  - C904: alguacilejo
+
+=== costumbre (39) ===
+  - C49: zapotes
+  - C76: ñudo
+  - C241: xicoles
+  - C252: huipiles y naguas
+  - C277: lengua mexicana
+  - C287: Zorros
+  - C288: Raposos
+  - C290: Venados
+  - C291: Conejos
+  - C292: Codornices
+  - C316: lagostines
+  - C338: gentilidad
+  - C380: frutas de la tierra
+  - C437: pluma
+  - C807: costumbre
+  - C839: liquidámbar
+  - C840: sangre de drago
+  - C847: yerbas y medicinas
+  - C866: Chiapaneca
+  - C867: Zoque
+  - C868: Zotzil
+  - C869: Zeldal
+  - C870: Quelén
+  - C871: Cuauhtemalteca
+  - C872: Chirrichota
+  - C873: Popoluca
+  - C874: Pipil
+  - C875: Poconchí
+  - C876: Cacchí
+  - C877: Colchi
+  - C878: Pocón
+  - C879: Taulepa
+  - C880: Ulúa
+  - C881: Mangue
+  - C882: Chontal
+  - C883: Marivio
+  - C884: Potón
+  - C910: frutas
+  - C934: Chalchihuites
+
+=== cultivo (6) ===
+  - C342: calabazas
+  - C343: pepitos
+  - C344: batatas
+  - C345: yuca boniata
+  - C346: tomates
+  - C347: chía
+
+=== documento (6) ===
+  - C318: documento
+  - C748: Cáliz
+  - C749: Vinajeras
+  - C750: Jarro de plata
+  - C751: Campana pequeña
+  - C993: libros
+
+=== especie (2) ===
+  - C97: chile
+  - C923: robles
+
+=== event_historico (1) ===
+  - C940: Espíritu Santo
+
+=== evento_historico (5) ===
+  - C400: evento_historico
+  - C426: aguayas
+  - C933: Sacrificios
+  - C966: mitote
+  - C1071: Navidad
+
+=== familia (2) ===
+  - C465: familia
+  - C1069: mujeres e hijos
+
+=== fruta (10) ===
+  - C92: plátanos
+  - C93: chicozapotes
+  - C94: aguacates
+  - C95: ciruelos de la tierra (xocotes)
+  - C98: manzanas
+  - C99: higos
+  - C100: uvas silvestres
+  - C101: melones
+  - C340: hueso verde
+  - C341: nances
+
+=== grupo_social (17) ===
+  - C22: Frailes
+  - C23: Clérigos
+  - C29: pueblo_indigena
+  - C196: alcaldes indios
+  - C253: caciques y señores
+  - C273: naturales
+  - C386: caballos
+  - C442: Pueblos comarcanos
+  - C650: Tributarios
+  - C734: encomenderos
+  - C806: grupo_social
+  - C812: aves de agua
+  - C830: aves_de_agua
+  - C845: Antiguos filósofos y médicos
+  - C936: Mozos cristianos
+  - C969: capitanes
+  - C1064: comunidad
+
+=== institucion_colonial (38) ===
+  - C30: institucion_colonial
+  - C62: la iglesia
+  - C127: ecinas
+  - C151: puerto
+  - C153: Juzgado del señor alcalde mayor
+  - C188: monasterio
+  - C192: Real Audiencia
+  - C194: Cabildo
+  - C206: Audiencia y Cancillería Real
+  - C211: la Real Audiencia de los Confines
+  - C278: Majada
+  - C305: Consejo de su majestad
+  - C308: presidente
+  - C317: casas del pueblo y la iglesia
+  - C320: real justicia de su majestad
+  - C356: orden del señor San Jerónimo
+  - C394: Real Justicia
+  - C429: Real Corona
+  - C443: Convento de señor San Francisco
+  - C468: Audiencia
+  - C474: obispado
+  - C475: consejo_real
+  - C527: Blas Corbera
+  - C620: Santo Domingo
+  - C632: Convento Cobá
+  - C633: Audiencia de Guatemala
+  - C636: reinado
+  - C644: Real Hacienda
+  - C767: iglesias
+  - C771: Santo Domingo de Cobán
+  - C777: Consejo de su majestad y su oidor dignísimo en la Real Audiencia de Guatemala
+  - C838: herrería
+  - C854: Institución colonial
+  - C1022: Audiencia Real
+  - C1046: Iglesia catedral de Guatemala
+  - C1070: tributo
+  - C1081: jueces contadores
+  - C1105: la Real Audiencia de Guatemala
+
+=== legumbre (1) ===
+  - C104: frijoles
+
+=== lengua (1) ===
+  - C995: apay
+
+=== lengua_materna (2) ===
+  - C197: zotohil
+  - C200: Mexicana
+
+=== lenguaje (1) ===
+  - C339: México (lengua materna)
+
+=== linaje (1) ===
+  - C1062: linaje
+
+=== lugar (274) ===
+  - C8: Zapotitlán
+  - C9: Xicalapa
+  - C10: San Antonio Suchitepeque
+  - C11: La Mar
+  - C12: España
+  - C16: Guatemala
+  - C17: Suchitepéquez
+  - C18: volcanes o sierras de Guatemala
+  - C19: sierra de Sacatepeque
+  - C26: costa
+  - C27: provincias
+  - C31: San Antonio
+  - C38: Tolimán Alto
+  - C39: Atitlán
+  - C41: Zamayaque
+  - C44: Santa Catalina
+  - C52: Tulimán
+  - C57: Laguna
+  - C85: árbol
+  - C86: sierra
+  - C87: volcán
+  - C106: Castilla
+  - C108: Michoacán
+  - C109: Costa Rica
+  - C110: Perú
+  - C112: gallinas de la tierra
+  - C116: Andalucía
+  - C117: Portugal
+  - C118: Francia
+  - C119: Villa de Boroaje
+  - C120: Gascuña
+  - C121: Tehuantepeque
+  - C122: Mar del Sur
+  - C123: Sacapula
+  - C124: San Mateo Ixtatán
+  - C125: provincia
+  - C131: México
+  - C132: Nueva España
+  - C143: San Juan de Nahualapa
+  - C149: juraición
+  - C155: Pueblo de Xicalapa
+  - C156: Provincia de Zapotitlán
+  - C160: Los Ranchos
+  - C163: Robonal
+  - C174: Santiago Atitlán
+  - C175: Quezaltenango
+  - C179: Santiago de Cuauhtemala
+  - C182: Valle
+  - C183: Tecpán Cuauhtemala
+  - C185: el pueblo y cabecera de Tecpán Cuauhtemala
+  - C205: la ciudad de Santiago Cuauhtemala
+  - C207: San Juan Nahualapa
+  - C212: Gracias a Dios
+  - C219: Tecpan Tototl
+  - C231: pueblo
+  - C234: reino
+  - C263: ciudad
+  - C271: pítulos
+  - C304: Santiago
+  - C306: convento
+  - C313: Fuego
+  - C319: regimiento
+  - C323: doctrina
+  - C357: pueblo de la serranía
+  - C364: ciudad de Santiago
+  - C365: provincia de Guatemala
+  - C366: pueblo de Atitlán
+  - C382: barranca alta
+  - C401: ombligo
+  - C402: muslo
+  - C414: Santiago de Guatemala
+  - C445: Santa Bárbola
+  - C450: Santiago de la provincia de Guatemala
+  - C473: municipio
+  - C480: Tecpán Izalco
+  - C518: San Miguel
+  - C519: Tecoluca
+  - C520: Sacatecoluca
+  - C521: San Juan y Santiago de los Nunualcos
+  - C522: Usulután
+  - C523: Villa de San Miguel
+  - C529: San Salvador
+  - C561: Pueblo de las Varillas
+  - C562: Hueymango
+  - C563: Atiquipaque
+  - C564: Guanaguazapa
+  - C565: Taculula
+  - C566: Tepeaco
+  - C567: Izguatlán
+  - C568: Naozalco
+  - C570: Zapotitán
+  - C573: Ayutla
+  - C574: Nahuatlán
+  - C575: Coyoacán
+  - C576: Chacalapa
+  - C577: Apacapa
+  - C578: Tustla
+  - C579: Copulco
+  - C580: Mazatlán
+  - C581: Cacahuatán
+  - C582: Etacalapa
+  - C583: Ila mapa
+  - C584: Tlapachula
+  - C585: Huehuetlán
+  - C586: Cuilco
+  - C587: Tuzantlán
+  - C589: Tianguiztlán
+  - C590: Cahuala
+  - C591: Ocozingo
+  - C592: Macapetahua
+  - C593: Tizapa
+  - C594: Tatahuitla
+  - C595: Ocelocalco
+  - C596: Mapaztepeque
+  - C597: Tictepeque
+  - C598: Tonalá
+  - C599: Tlapanatepeque
+  - C600: Teculucelo
+  - C601: Citala
+  - C602: Seque
+  - C603: Ahuetepeque
+  - C604: La Chuluteca
+  - C606: Santa Lucía
+  - C618: Montes de Oca
+  - C619: Villa de la Trinidad
+  - C630: Zacatula
+  - C631: Santa María de Tactic
+  - C639: San Pedro y Santiago
+  - C646: Chiapa
+  - C648: Provincia de la Verapaz
+  - C653: Provincia y tierra de la Verapaz
+  - C656: Chixoy
+  - C657: Salamá
+  - C658: Rabinal
+  - C661: Río de Polochic
+  - C662: Rio Nito
+  - C663: Cabo de Higueras
+  - C665: Términos
+  - C666: Tabasco
+  - C668: San Pedro
+  - C669: Acalá
+  - C671: ríos
+  - C672: arroyos
+  - C674: Zenzonatl
+  - C675: montes
+  - C676: valles
+  - C677: camino real
+  - C680: San Cristóbal
+  - C681: Sevilla
+  - C682: San Miguel de Tucurub
+  - C689: San Esteban de Tamahún
+  - C691: Cuculín
+  - C692: Yaxal
+  - C694: La Costa
+  - C698: pueblos altos
+  - C699: pueblos bajos y calientes del golfo
+  - C706: San Juan Chamelco
+  - C707: Cobán
+  - C728: Mar del Norte
+  - C729: Lagunas de Términos
+  - C735: San Lucas Zulbén
+  - C738: San Juan
+  - C739: Santa Cruz
+  - C742: San Miguel Tucurub
+  - C743: Tamahún
+  - C747: Casilla de adobes y teja
+  - C752: Rancho de paja
+  - C754: Santa Cruz Cabahoncillo
+  - C755: San Pablo
+  - C756: Cabahoncillo
+  - C757: Polochic
+  - C758: Xocoloc
+  - C761: San Mateo Jocloc
+  - C762: Golfo
+  - C765: Villa de Monguía
+  - C768: región
+  - C776: Palacio
+  - C778: Real Audiencia de Guatemala
+  - C779: San Agustín Lanquínj
+  - C781: cueva
+  - C782: mediana laguna
+  - C786: ceibas
+  - C787: palmas
+  - C788: palmillas
+  - C793: milpas
+  - C798: Espana
+  - C803: cuevas
+  - C804: veredas
+  - C810: hormiguero
+  - C816: Arboles espinosos
+  - C825: aguas
+  - C826: fuentes
+  - C833: agua
+  - C851: Africa
+  - C857: Reino de España
+  - C858: Italia
+  - C859: Flandes
+  - C860: Choluteca
+  - C861: Honduras
+  - C862: Nicaragua
+  - C864: Costa Rica (Nicoya)
+  - C885: Guazacapán
+  - C886: río de Lempa
+  - C887: Chiquimula de la Sierra
+  - C888: Michatoya
+  - C889: Aguachapa
+  - C893: place
+  - C895: Río de Michatoya
+  - C896: Laguna de Amatitlán
+  - C897: Nesticpac
+  - C898: Alemania
+  - C907: Güeymoco
+  - C911: Izal
+  - C913: arrecife
+  - C914: playa
+  - C915: Tecpa
+  - C918: Apaneca
+  - C919: Ataco
+  - C920: India de Portugal
+  - C929: Isla
+  - C931: Estanda
+  - C938: Nixapa
+  - C939: Cuzcatán
+  - C945: Jiboga
+  - C948: Iztepeque
+  - C949: Uxaca
+  - C950: Esaguadero
+  - C951: Mitla
+  - C963: cu
+  - C964: adoratorio
+  - C968: teupa
+  - C978: Copán
+  - C980: ruinas
+  - C982: plaza
+  - C985: promontorio
+  - C988: torre
+  - C994: Ayajal
+  - C1000: Triana
+  - C1001: Sant Lucar
+  - C1002: San Juan de Ulúa
+  - C1007: El Perú
+  - C1008: La Trinidad
+  - C1011: Salamanca
+  - C1016: Panamá
+  - C1018: pueblos y provincias y milpas
+  - C1020: Chiapa de los Indios
+  - C1021: pueblo o provincia
+  - C1027: Izcuintepeque
+  - C1028: Petapa
+  - C1031: Miztlán
+  - C1032: Mixtlán
+  - C1033: Quauitle Chagüite
+  - C1034: Mazagua
+  - C1036: Pueblo de Iztapan
+  - C1052: Costa de Zapotitlán
+  - C1061: ciudad de los Ángeles
+  - C1067: temples
+  - C1075: Nonoalcos
+  - C1086: Izalco
+  - C1089: La Ciudad de Guatemala
+  - C1090: La Ciudad Real de Chiapa
+  - C1091: La Villa de La Trinidad
+  - C1092: La Ciudad de San Salvador
+  - C1093: La Villa de San Miguel
+  - C1094: Comayagua
+  - C1095: Ciudad de Comayagua
+  - C1096: San Pedro Sula
+  - C1097: Trujillo
+  - C1098: La Choluteca
+  - C1100: La Villa del Realejo
+  - C1101: La Ciudad de León
+  - C1102: Granada
+  - C1104: Nombre de Dios
+  - C1106: La ciudad de Cartago
+
+=== materia_prima (1) ===
+  - C439: materia_prima
+
+=== material (3) ===
+  - C69: algodón
+  - C79: telilla
+  - C80: paño
+
+=== objeto (2) ===
+  - C922: piedra
+  - C925: concha
+
+=== objeto_material (1) ===
+  - C643: Gallina
+
+=== obra (98) ===
+  - C70: camisa
+  - C71: saragüeles
+  - C72: hábito asimismo de algodón
+  - C73: ayate
+  - C77: sombrero
+  - C78: jubones de lienzo
+  - C115: papagayos
+  - C129: casas
+  - C189: iglesia
+  - C243: chamarra
+  - C265: obra
+  - C267: pescado
+  - C268: cruz
+  - C269: fruta
+  - C270: grano
+  - C322: monasterio y convento
+  - C326: ido
+  - C327: traje
+  - C328: camisas
+  - C329: zarahueles
+  - C330: jubones
+  - C331: zapatos
+  - C332: botas
+  - C333: cotaras
+  - C334: huipiles
+  - C335: naguas
+  - C336: rosarios
+  - C337: ruán
+  - C351: papagayo
+  - C352: aguila
+  - C353: guacamayo
+  - C354: manta
+  - C358: monasterio de religiosos de la orden del señor San Francisco
+  - C379: cacahuatales
+  - C381: legumbres della
+  - C387: ciruelas
+  - C388: zapotes colorados
+  - C389: mameyes
+  - C395: Monasterio y convento de religiosos de señor San Francisco
+  - C398: ídolo
+  - C399: diosa_hembra
+  - C433: hoja
+  - C434: lomo
+  - C436: pavón
+  - C438: águila
+  - C444: Santo Evangelio
+  - C621: Monasterio de Guatemala
+  - C622: Convento de San Salvador
+  - C623: Convento en Sacapula
+  - C624: Monasterio de Nuestra Señora de la Merced
+  - C640: mantas
+  - C642: Tasa de tributo
+  - C678: parras silvestres
+  - C701: carne
+  - C702: gorgojo
+  - C708: retablo
+  - C709: crucifijo
+  - C710: imagen_de_nuestra_Señora
+  - C711: terno_de_terciopelo_carmesí
+  - C712: almáticas
+  - C713: capa
+  - C714: cordones
+  - C715: alba
+  - C716: casullas_comunes
+  - C717: frontales
+  - C718: manteles
+  - C719: cálices_de_plata
+  - C720: corporales
+  - C721: cruz_de_plata
+  - C722: manga
+  - C723: candeleros_de_plata
+  - C724: candeleros_de_palo_dorados
+  - C725: incensario
+  - C726: vinajeras_de_plata
+  - C731: Nuestra Señora
+  - C744: Imagen del crucifijo
+  - C745: Imagén de nuestra Señora
+  - C746: Puentes
+  - C760: campanilla de arroba
+  - C789: copal
+  - C796: Miel
+  - C849: Cristo crucificado
+  - C850: la bendita madre
+  - C892: arcabuz
+  - C917: machete
+  - C932: Ídolo grande de piedra
+  - C937: Santuario
+  - C942: navío
+  - C967: sacrificio
+  - C981: estatua grande
+  - C983: estatuas grandísimas
+  - C989: figuras
+  - C990: edificios
+  - C1023: Nuestra Señora de la Merced
+  - C1024: Monasterio de monjas
+  - C1029: legumbres
+  - C1030: leña
+  - C1066: monasterio de cantería
+
+=== orden (1) ===
+  - C91: orden
+
+=== persona (255) ===
+  - C1: Juan de Estrada
+  - C2: Fernando de Niebla
+  - C3: Gonzalo Ruiz Ronquillo
+  - C4: Juan Rodríguez Cabrillo de Medrano
+  - C5: Martín de Sotomayor
+  - C6: Sancho de San Pedro
+  - C7: Pedro de Écija
+  - C13: La Luna
+  - C14: Cháves
+  - C24: Pedro de Alvarado
+  - C34: Indios
+  - C56: Uzama
+  - C61: ra
+  - C83: es
+  - C90: Valverdi
+  - C107: Pedro de Villalobos
+  - C111: cebadilla
+  - C138: Cristóbal de Aro
+  - C139: Juan de Fontín
+  - C140: Hernando de Escobar
+  - C141: Ambrosio Cota Manuel
+  - C142: Antonio Rodríguez
+  - C152: García de Valverdi
+  - C161: Balam Quitze
+  - C162: Co Caib
+  - C165: Co Caibim
+  - C166: Queh Nay
+  - C168: Co Nache
+  - C169: don Juan Cortés
+  - C171: Sancho Barahona
+  - C176: persona
+  - C177: Quauhtli
+  - C178: Ocelotl
+  - C181: don Fernando Cortés
+  - C186: los indios del pueblo y cabecera de Tecpán Cuauhtemala
+  - C187: los españoles
+  - C202: cantores
+  - C203: maestro
+  - C204: religiosos
+  - C208: Gaspar Arias Dávila
+  - C213: Alonso Maldonado
+  - C214: Pedro Ramírez de Quiñónez
+  - C215: Rogel
+  - C216: Herrera
+  - C217: Francisco de la Parra
+  - C218: Pedro de Betanzos
+  - C220: señor de la casa
+  - C222: demonio
+  - C224: personas
+  - C225: sacristios
+  - C227: señor y cacique
+  - C228: señores
+  - C229: principales
+  - C230: macehuales
+  - C235: cacique
+  - C236: señor
+  - C237: vasallo
+  - C238: españoles
+  - C255: sacerdote o religioso
+  - C298: fray Francisco de la Parra
+  - C299: fray Pedro de Betanzos
+  - C300: fray Gonzalo Méndez
+  - C301: fray Diego Ordóñez
+  - C302: Sancho de Barahona
+  - C303: Francisco de Villacastín
+  - C307: Señor Francisco
+  - C314: re
+  - C321: padre fray Pedro de Arboleda
+  - C355: Fray Gómez de Córdova
+  - C359: Fray Diego, Ordóñez
+  - C360: Alfonso Páez Betancor
+  - C361: Pedro de Arboleda
+  - C362: l ilustrísimo señor licenciado García Valverdi
+  - C368: ilustrísimo señor licenciado García de Valverdi
+  - C369: Villacastín
+  - C370: Arboleda
+  - C371: Vázquez
+  - C372: Manrique
+  - C373: Pérez
+  - C374: Martín
+  - C375: Hernando Cortés
+  - C377: las aguas
+  - C392: Gonzalo Méndez
+  - C393: Diego Ordóñez
+  - C415: fraile
+  - C416: obispo
+  - C418: fray Gómez de Córdoba
+  - C420: Francisco de Villacastin
+  - C421: Diego Rodríguez
+  - C422: Andrés de Aguilar
+  - C423: Antón de Mansilla
+  - C424: Diego Méndez
+  - C425: Gaspar Manrique
+  - C428: person
+  - C440: San Jerónimo
+  - C441: Don fray Gómez de Córdoba
+  - C446: indios tributarios
+  - C447: viudos
+  - C448: solteros
+  - C449: don Gaspar Manrique
+  - C451: Ah Tziquini Hay
+  - C453: Natzti Hay
+  - C454: Aquibi Hay
+  - C455: Acu Hay
+  - C456: Quici Hay
+  - C457: Acaboxul
+  - C464: Españoles conquistadores
+  - C466: licenciado Landecho
+  - C467: Francisco Briceño
+  - C470: nuestros padres
+  - C471: el adelantado y Cueto
+  - C476: reverendísimo
+  - C477: visitador
+  - C478: deán
+  - C479: caciques
+  - C481: Don Pedro de Figueroa
+  - C482: Doña Juana
+  - C483: Catalina
+  - C484: Miguel
+  - C485: Don Diego de Guzmán
+  - C486: Juan de Ovando
+  - C487: Pedro Girón
+  - C488: Doña Bernaldina
+  - C489: Don Pedro Juárez
+  - C490: Doña Angelina
+  - C491: Gregorio de Valencia
+  - C492: Doña Inés
+  - C493: Fernando Díaz
+  - C494: Isabel
+  - C495: Juan Vázquez de Coronado
+  - C496: Beatriz de Escobar
+  - C497: Alonso Tezcatimal
+  - C498: Catalina Xicuey
+  - C499: Diego de Mendoza
+  - C500: Constanza
+  - C501: Baltasar Vázquez
+  - C502: Luisa Cigua
+  - C503: Juan de Urrutia
+  - C504: Gaspar López
+  - C505: Miguel Muñoz
+  - C506: Don Benito Cortés
+  - C507: Doña Madalena
+  - C508: Pedro Vázquez
+  - C509: Madalena Vázquez
+  - C510: Hernán Álvarez de Orrego
+  - C511: Don Cristóbal
+  - C512: Catarina
+  - C513: Don Juan
+  - C514: Francisca
+  - C515: Baltasar Chamorro
+  - C516: Francisco López de Mendoza
+  - C517: Father Lucas Froys
+  - C525: Juana Martín
+  - C530: Don Martín Corbera
+  - C535: Francisco Avilés
+  - C539: Don Martín
+  - C540: Doña Catalina
+  - C541: Don Diego Océlotl
+  - C542: Doña Magdalena Misco
+  - C543: Don Francisco de Mendoza
+  - C544: Doña María
+  - C545: Don Juan Pérez
+  - C546: Don Diego
+  - C547: Juana
+  - C551: Juan de Salazar
+  - C553: Ope Rodríguez de las Varillas
+  - C554: Don Hernando
+  - C555: Doña Francisca
+  - C556: Carlos Bonifaz
+  - C557: Juan Hurtado
+  - C558: Diego López de Villanueva
+  - C559: Jerónimo de Guzmán
+  - C560: Jerónimo de Alvarado
+  - C569: Juan Jerónimo Reinoso
+  - C605: Santiago Gouinala
+  - C615: Francisco de la Cueva
+  - C616: Pablo Cota
+  - C617: Juan Méndez de Sotomayor
+  - C625: Juan de Pineda
+  - C626: Pedro de Liébana
+  - C627: Francisco González
+  - C628: Baltasar de Vera
+  - C634: Doctor Arévalo Sedeño
+  - C635: doctor
+  - C638: oidor
+  - C651: Mateo Arévalo Sedeño
+  - C673: pez
+  - C703: reina
+  - C704: Felipe
+  - C733: doctor Sedeño
+  - C766: Landecho
+  - C769: mujeres
+  - C770: hombres
+  - C775: Diego García de
+  - C797: Abuela de las abejas
+  - C800: doctor Laguna
+  - C802: pardo
+  - C813: pájaros del tamaño de pequeños tordos
+  - C814: palomas
+  - C815: Pájaro de las plumas
+  - C818: santo
+  - C819: Dios
+  - C852: madres
+  - C853: criatura
+  - C891: toro
+  - C901: comadre
+  - C902: marido
+  - C903: mujer
+  - C905: alguacil
+  - C916: indio
+  - C924: muchachos
+  - C944: zegua
+  - C952: Papa (Tecti)
+  - C954: sacerdote
+  - C957: teupas
+  - C958: sacerdotes
+  - C959: papa
+  - C960: sabio
+  - C961: mayordomo
+  - C962: muchacho
+  - C970: la guerra
+  - C971: los mancebos
+  - C973: partera
+  - C975: Jerónimo Italiano
+  - C976: encomendero
+  - C977: mujer del encomendero
+  - C991: antiguos
+  - C992: antepasados
+  - C997: Diego García de Palacio
+  - C999: Sancho de Esquivel
+  - C1003: Don Antonio de Mendoza
+  - C1004: Don Luis de Velasco
+  - C1005: Román
+  - C1006: Haro
+  - C1009: Juan Gaitán
+  - C1010: Beatriz de Oliver
+  - C1012: Bachiller Almaraz
+  - C1013: Pedro de Paredes
+  - C1014: Fray Domingo de Vico
+  - C1015: Fray Andrés López
+  - C1019: Juan de la Cueva
+  - C1025: Alonso López Cerrato
+  - C1026: presidente Cerrato
+  - C1035: Figueroa
+  - C1040: Lope Rodríguez de las Varillas
+  - C1042: Cristóbal de Celada
+  - C1045: Martín Díaz
+  - C1076: Mestaner
+  - C1077: San Juan de Mestaner
+  - C1078: oidores
+  - C1079: intérprete
+  - C1080: oficiales
+  - C1083: Ella
+  - C1084: Doctor Villalobos
+  - C1085: licenciado García de Valverde
+
+=== practica_cultural (31) ===
+  - C64: arcos y flechas
+  - C65: alfanjes
+  - C66: celadas
+  - C67: emboscadas
+  - C68: engaños
+  - C81: colores
+  - C242: xah pot
+  - C248: cotaras de henequén
+  - C250: mantas atadas en el hombro
+  - C251: rosarios al cuello
+  - C259: xuchipatli
+  - C260: xuchinacaztli
+  - C261: muk
+  - C276: yerba
+  - C280: raíz
+  - C281: vástago
+  - C282: jeme
+  - C283: beleño
+  - C409: Coxolotles
+  - C411: Tequechules
+  - C412: Areytos
+  - C835: metales ricos
+  - C841: aceite
+  - C842: zarzaparrilla
+  - C846: fe
+  - C908: cacao
+  - C953: Quetzales
+  - C984: sahumerios
+  - C986: mitotes
+  - C987: ritos
+  - C1087: practica_cultural
+
+=== producto (7) ===
+  - C126: sal
+  - C128: pescados
+  - C133: lienzos
+  - C134: ruanes
+  - C135: navales
+  - C136: paños
+  - C137: tafetanes
+
+=== pueblo_indien (2) ===
+  - C296: Águilas
+  - C407: armados
+
+=== pueblo_indiena (2) ===
+  - C43: San Luis
+  - C427: pueblo_indiena
+
+=== pueblo_indigen (1) ===
+  - C552: pueblo_indien
+
+=== pueblo_indigena (140) ===
+  - C21: Sierras
+  - C32: Achí
+  - C33: Mame
+  - C35: Izapa
+  - C36: Patzicía
+  - C37: Patzum
+  - C40: Rancho de San Bartolomé
+  - C42: San Francisco
+  - C45: Ranchos
+  - C46: Tilapa
+  - C47: Soconusco
+  - C48: San Francisco Zapotitlán
+  - C51: Tecpán Atitlán
+  - C54: San Bartolomé
+  - C55: Nahualapa
+  - C58: Aguacatepet
+  - C84: pueblos
+  - C88: ojarras
+  - C89: tepemechines
+  - C113: pavos
+  - C114: chachalacas
+  - C144: Santiago Zambo
+  - C145: San Pedro y Mazatenango
+  - C146: San Martín
+  - C147: San Felipe y Cuyotenango
+  - C148: Santa Catalina y San Sebastián y San Antón
+  - C164: Ehizo
+  - C167: Ah pop
+  - C190: orden del señor San Francisco
+  - C198: achíes
+  - C199: uhtlatecas
+  - C201: sia
+  - C223: caciques y señores deste pueblo
+  - C226: indios y niños
+  - C244: mercaderes indios
+  - C256: mozos varones
+  - C266: islas
+  - C286: Leones
+  - C289: Puercos monteses
+  - C293: Palomas torcazas
+  - C294: Tórtolas
+  - C295: Pavas
+  - C297: Guacamayos
+  - C312: Pueblo Indigena
+  - C325: Taluc
+  - C348: tabaco mexicano
+  - C349: la contrayerba
+  - C378: los indios
+  - C383: montañas altas
+  - C385: serranías
+  - C390: Qui Ohg
+  - C403: raposas
+  - C404: puercos
+  - C405: tepeizcuintles
+  - C406: pizotles
+  - C408: Temazatl
+  - C410: Pavones
+  - C417: orden de San Jerónimo
+  - C419: señor San Francisco
+  - C431: Oxi 4ahol
+  - C435: tepeizcuintle
+  - C452: Amac tzutuhile
+  - C524: Don Alonso
+  - C536: Langatique
+  - C537: Santa Ana
+  - C538: Yupitepeque
+  - C607: Sacatepeque
+  - C608: Ostuncalco
+  - C609: Huehuetenango
+  - C610: Jacaltenango
+  - C611: Chomes
+  - C612: Mames
+  - C613: Huey Cuilco
+  - C614: Motocintla
+  - C645: Mixtecas
+  - C664: Yucatán
+  - C667: Ah Itza
+  - C670: Lacandón
+  - C683: micos
+  - C684: cabras montesas
+  - C685: venado
+  - C686: perros monteses
+  - C687: monos grandes
+  - C693: Chiquimula
+  - C695: San Agust
+  - C705: indígenas
+  - C730: San Agustín
+  - C736: Ah Chol
+  - C737: Ahi Manche
+  - C740: Santa María Tactic
+  - C741: San Esteban Tamahún
+  - C759: San Andrés Polochic
+  - C763: Yajal
+  - C764: Campín
+  - C784: gente
+  - C785: bálsamo
+  - C790: árboles
+  - C792: dragos
+  - C794: nogales
+  - C795: Pueblo Indígena
+  - C799: danta
+  - C801: elefante
+  - C817: Género de aves
+  - C820: aves
+  - C821: víboras
+  - C824: perro
+  - C829: naturaleza
+  - C832: cocodrilo
+  - C834: lagartos
+  - C844: Indias
+  - C855: Izalcos
+  - C856: Cuzcatlan
+  - C863: Teguzgalpa
+  - C890: caimán
+  - C894: indigenous group
+  - C899: pipiles
+  - C900: chontales
+  - C912: natural group
+  - C926: escorpiones
+  - C927: sapos
+  - C928: hormigas
+  - C930: Negros y mulatos
+  - C935: Indios viejos y antiguos
+  - C943: Atempa Ma
+  - C947: Nunualcos
+  - C955: Quetzalcoatl
+  - C956: Itzqueye
+  - C974: diós
+  - C1037: Iztapan
+  - C1039: Tlaxisco
+  - C1041: Chiquimula de la Costa
+  - C1043: Naolingo
+  - C1044: Caluco
+  - C1047: Pueblo de Pazón Patzum
+  - C1050: La Madalena
+  - C1051: pueblo de atrás
+  - C1063: Tequecistlán
+  - C1065: espanoles
+  - C1074: Ahuachapa
+  - C1099: Olancho y Nueva Segovia
+
+=== raíz (2) ===
+  - C102: camotes (batatas)
+  - C103: yuca
+
+=== río (3) ===
+  - C59: Nagualat
+  - C946: Lempa
+  - C1073: Motagua
+
+=== territorio (16) ===
+  - C15: mar
+  - C60: territorio
+  - C130: caminos
+  - C184: la tierra
+  - C272: tierra
+  - C396: Costa del sur
+  - C413: Comarca
+  - C588: Corona Real
+  - C697: tierra caliente
+  - C753: Milpas de cacao
+  - C780: río
+  - C811: terra
+  - C828: tierra fría
+  - C1049: Costa de los Suchitepéquez
+  - C1053: la sierra
+  - C1082: Vuestra Real Hacienda
+
+=== toponimo (91) ===
+  - C20: Laguna de Atitlán
+  - C25: equinoccial
+  - C28: lugar
+  - C50: Suchitepeque
+  - C53: Tolimán Bajo
+  - C74: cuadrado
+  - C75: vara y media
+  - C150: cabo
+  - C157: Volcanes de Guatemala
+  - C158: Sierras de Sacatepeque
+  - C159: Quezaltenan
+  - C180: Cuauhtemala
+  - C209: Chi Aa
+  - C210: Atitlan
+  - C221: Zaqui Buk
+  - C232: Tecpan Cuauhtemala
+  - C233: Tecpan Uhtlatlan
+  - C239: aguilas
+  - C240: tigres
+  - C245: sayal
+  - C246: chamarras
+  - C247: calzones
+  - C249: sombreros
+  - C257: maíz
+  - C258: ají
+  - C262: volcan
+  - C264: cerro
+  - C274: picietle
+  - C275: tabaco
+  - C279: contrayerba
+  - C284: matul
+  - C285: tlapatl
+  - C315: peces de sierra
+  - C324: Ahg Tziquine Hay
+  - C350: calabacillos
+  - C367: San Andrés
+  - C376: viento sur
+  - C384: río grande
+  - C391: Xahuac Tepeti
+  - C397: Tecpan Tolotl
+  - C458: pan Utatlan
+  - C459: Tecpan Quauhtemalan
+  - C460: Tecpan Tecozitlan
+  - C461: Santiago de Atitlán
+  - C462: Verapaz
+  - C463: San Miguel y León
+  - C528: Santa Lucía de Suchitotos
+  - C532: Tequecistepeque
+  - C534: Moncagua
+  - C571: San Felipe
+  - C572: San Gregorio
+  - C637: Tactic
+  - C647: Golfo Dulce
+  - C649: Puerto de Caballos
+  - C654: Mar océano
+  - C655: Río Nito
+  - C659: Tucurub
+  - C660: Cahabón
+  - C688: Monguía
+  - C690: Monoa
+  - C696: in y Cahabón
+  - C727: Damasco
+  - C732: SANTA MARÍA CAHABÓN
+  - C783: sierras hondas
+  - C791: almástiga
+  - C805: toponimo
+  - C822: cascabeles
+  - C823: boca amarilla
+  - C827: nuestra España
+  - C836: plata
+  - C837: oro
+  - C843: china
+  - C865: Nicoya
+  - C906: Iztapa
+  - C921: río caliente
+  - C941: Teczahuangos
+  - C965: ícaras
+  - C979: piedra grandísima
+  - C1017: Indias del mar océano
+  - C1038: Nestiquipaque
+  - C1048: Camino real de México
+  - C1054: San Bernardino
+  - C1055: Santa Bárbara
+  - C1056: Tlaxcala
+  - C1057: Tepeaca
+  - C1058: Acasingo
+  - C1059: Guexocingo
+  - C1060: Cholula
+  - C1068: tostones
+  - C1072: Acasahuaztlán
+  - C1103: el Desaguadero
+
+=== vegetal (1) ===
+  - C105: calabazas (ayotes)
+
+=== árbol (1) ===
+  - C96: achiote
+

@@ -1,0 +1,46 @@
+=== RESUMEN DE LA ONTOLOGÍA ===
+
+Total de categorías: 40
+
+actividad_economica: 6 conceptos
+animal: 2 conceptos
+autor: 2 conceptos
+autoridad: 23 conceptos
+cargo: 9 conceptos
+costumbre: 39 conceptos
+cultivo: 6 conceptos
+documento: 6 conceptos
+especie: 2 conceptos
+event_historico: 1 conceptos
+evento_historico: 5 conceptos
+familia: 2 conceptos
+fruta: 10 conceptos
+grupo_social: 17 conceptos
+institucion_colonial: 38 conceptos
+legumbre: 1 conceptos
+lengua: 1 conceptos
+lengua_materna: 2 conceptos
+lenguaje: 1 conceptos
+linaje: 1 conceptos
+lugar: 274 conceptos
+materia_prima: 1 conceptos
+material: 3 conceptos
+objeto: 2 conceptos
+objeto_material: 1 conceptos
+obra: 98 conceptos
+orden: 1 conceptos
+persona: 255 conceptos
+practica_cultural: 31 conceptos
+producto: 7 conceptos
+pueblo_indien: 2 conceptos
+pueblo_indiena: 2 conceptos
+pueblo_indigen: 1 conceptos
+pueblo_indigena: 140 conceptos
+raíz: 2 conceptos
+río: 3 conceptos
+territorio: 16 conceptos
+toponimo: 91 conceptos
+vegetal: 1 conceptos
+árbol: 1 conceptos
+
+Total de conceptos en toda la ontología: 1106
